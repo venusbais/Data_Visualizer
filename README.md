@@ -16,3 +16,7 @@ This is a Java object-oriented project with a user interface and data visualizat
 * The original categories included are global rank, company name, sales, profits, assets, and market value
 * I added two extra categories to the dataset. Those being the type of company and the company description. The company types allow for better sorting and the company description provides a more enhanced individual company view
 * [Here is a link to the original dataset](https://data.world/finance/japan-largest-companies)
+
+##Running application 
+![image](https://github.com/venusbais/Data_Visualizer/assets/78401777/8dce4600-9ec5-4fe6-8742-c3c4cb9190c5)
+
