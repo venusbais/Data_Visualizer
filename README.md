@@ -17,9 +17,9 @@ This is a Java object-oriented project with a user interface and data visualizat
 * I added two extra categories to the dataset. Those being the type of company and the company description. The company types allow for better sorting and the company description provides a more enhanced individual company view
 * [Here is a link to the original dataset](https://data.world/finance/japan-largest-companies)
 
-##Running application 
+## Running application 
 ![image](https://github.com/venusbais/Data_Visualizer/assets/78401777/ee6075bf-28b3-4a90-b4e9-94a08571afa8)
 ![image](https://github.com/venusbais/Data_Visualizer/assets/78401777/1ed8169a-8e39-4557-99e5-55a075dee9b7)
-![Screenshot (438)](https://github.com/venusbais/Data_Visualizer/assets/78401777/8f5114fd-9d7a-434f-8882-46e587f4077b)
+![image](https://github.com/venusbais/Data_Visualizer/assets/78401777/d4f104de-843a-48d4-9fc9-3a9e3e25c7f8)
 ![image](https://github.com/venusbais/Data_Visualizer/assets/78401777/8dce4600-9ec5-4fe6-8742-c3c4cb9190c5)
 
